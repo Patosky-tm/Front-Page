@@ -1,0 +1,47 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    background-color:lightgray;
+}
+nav{
+    float: right;
+    margin-right: 0rem;
+    width:100%;
+
+}
+.navbar-brand{
+border: 3px solid #2d9cdb;
+border-radius: 20%;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-left: 4px;
+padding-right: 4px;
+
+}
+ 
+#first-post{
+    margin-left: 2em;
+    margin-right: 1em;
+    padding-top: 2em;
+    padding-bottom: 1em;   
+}
+
+#second-post{
+    margin-left: 2em;
+    margin-right: 1em;
+    padding-top: 2em;
+    padding-bottom: 2em;   
+}
+
+.col-md-12{
+    margin-right: 8em;
+}
+
